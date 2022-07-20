@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio 🔢</h1>
+<h1 align="center">Calculator 🔢</h1>
    
 <h3 align="center">Click here ⤵️</h3>   
 <a href="https://projects-gustavo.github.io/"><img src="https://cdn.discordapp.com/attachments/876799799255531523/999451172266066051/calculator.png"></a>
